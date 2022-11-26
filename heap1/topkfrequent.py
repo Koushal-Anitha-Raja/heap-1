@@ -1,3 +1,5 @@
+#Time_Complexity: O(n)
+#Space_Complexity: O(n)
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         # creating the hashmap
